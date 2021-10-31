@@ -1,2 +1,2 @@
 # gcn_model_pyG
-for developing gcn model using phG
+for developing a gcn model using phG
