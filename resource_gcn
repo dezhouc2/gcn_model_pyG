@@ -3,3 +3,7 @@ https://arxiv.org/pdf/1609.02907.pdf
 
 ##github from thomas
 https://github.com/tkipf/pygcn
+
+
+##gcn model resource
+https://github.com/tkipf/pygcn/blob/master/pygcn/layers.py
